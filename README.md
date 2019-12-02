@@ -30,9 +30,12 @@ The files include virtualization software, a SSH-capable terminal, an X server, 
 
 For Mac:
 
-VirtualBox
-Mininet VM
-X11 Software (XQuartz)
+1- VirtualBox
+
+2- Mininet VM
+
+3- X11 Software (XQuartz)
+
 Follow this link for step by step walkthrough
 
 https://github.com/mininet/openflow-tutorial/wiki/Installing-Required-Software
