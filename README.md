@@ -1,4 +1,4 @@
-**This is the term project for Network Programming course CMPE207**
+**This is a team project for Network Programming course CMPE207 SJSU fall 2019**
 
 Introduction :
 
