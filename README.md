@@ -44,6 +44,7 @@ For this project we have created a custom topology.
 
 This topology includes 2 Switches, 3 Hosts and 1 Controller.
 
+![](images/Untitled%20Diagram.png)
 
 
 Steps to follow:
