@@ -120,3 +120,4 @@ Now in the same terminal window as before run the script 'sudo python qos2.py'
 Instead of applying QoS on queue 0 (default) on port s1-eth1, we will create two queues, one on which 
 we enqueue traffic we want to pass unrestricted (at maximim bandwidth 1Gbit/s) and one on which we enqueue 
 the traffic we want throttled to 4Mbit/s
+Full demo video in the link: https://youtu.be/m311cnKSBTE
